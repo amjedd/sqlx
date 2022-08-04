@@ -1,1 +1,1 @@
-# SQLx is an async, pure Rust† SQL crate
+# SQLx is an async, pure Rust SQL crate
